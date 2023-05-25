@@ -1,5 +1,6 @@
 
 from datetime import datetime, timedelta
+import subprocess
 
 durationData = {
     "DmT_OP_GanonWakeUp_PreRender": 6421.0,
@@ -29,6 +30,24 @@ durationData = {
     "Dm_ZN_0039_PreRender": 5284.0,
     "Dm_ZO_0032_PreRender": 4615.0,
 }
+
+def getDurationSeconds(filePath, ffprobe='ffprobe'):
+  # https://gist.github.com/hiwonjoon/035a1ead72a767add4b87afe03d0dd7b
+  command = [ffprobe,
+             '-v', 'fatal',
+             '-show_entries',
+             'format=duration',
+             '-of',
+             'default=noprint_wrappers=1:nokey=1',
+             filePath,
+             ]
+  # ffmpeg.probe(filePath)["format"]["duration"]
+  ffprobeCall = subprocess.Popen(command, stderr=subprocess.PIPE, stdout=subprocess.PIPE)
+  out, err = ffprobeCall.communicate()
+  if (err):
+    print('error', err)
+    return None
+  return out
 
 FPS = 30
 timeFormat = r'%H:%M:%S,%f'
@@ -128,7 +147,13 @@ for fileName in targets:
 
     srtLines.append('\n')
     counter += 1
-  timeBase += timedelta(seconds=durationData[fileName]/FPS)
+  if(fileName == 'DmT_ZE_LieServant_PreRender'):
+    print()
+  vdoDuration = getDurationSeconds(fileName + '.mp4')
+  print('{} {}'.format(fileName, vdoDuration))
+  if(len(vdoDuration) == 0):
+    print()
+  timeBase += timedelta(seconds=float(vdoDuration))
 
 
 with open('./sum.srt', 'w+', encoding='utf8') as subtitleFile:
