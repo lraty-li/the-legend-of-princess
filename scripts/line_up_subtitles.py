@@ -126,9 +126,10 @@ for fileName in targets:
     for text in texts:
       srtLines.append(text)
 
-    timeBase += timedelta(seconds=durationData[fileName]/FPS)
     srtLines.append('\n')
     counter += 1
+  timeBase += timedelta(seconds=durationData[fileName]/FPS)
+
 
 with open('./sum.srt', 'w+', encoding='utf8') as subtitleFile:
   subtitleFile.writelines(srtLines)
