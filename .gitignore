@@ -4,3 +4,4 @@ voice_classfy/*.ann
 voice_classfy/.vscode/*
 voice_classfy/speakerMap.json
 voice_classfy/__pycache__/*
+collect_voice/cache/*
