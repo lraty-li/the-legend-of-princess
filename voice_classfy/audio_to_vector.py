@@ -60,7 +60,8 @@ def audio2Vector(filepath,vector_executor = VectorExecutor()):
 
 
 # # score range [0, 1]
-# score = vector_executor.get_embeddings_score(audio_emb, test_emb)
+# ec = VectorExecutor()
+# score = ec.get_embeddings_score(audio_emb, test_emb)
 # print(f"Eembeddings Score: {score}")
 
 if __name__ == "__main__":

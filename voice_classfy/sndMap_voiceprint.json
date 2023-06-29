@@ -1,0 +1,136 @@
+{
+    "Player": {
+        "Dm_RT_0010_Text_008_b.wav": "……来……",
+        "Dm_GA_0019_Text_004_b.wav": "",
+        "Dm_ED_0007_Text_032_eb.wav": "",
+        "Dm_ZN_0039_Text_011_e.wav": ""
+    },
+    "Npc_Goron_Yunbo_Sage": {
+        "Dm_ED_0007_Text_039_b.wav": "",
+        "Dm_GO_0018_00.wav": "馚㺙林克！这就是挂锁吧！\n剩下4处……还有很多鼓咯。",
+        "Dm_GO_0018_02.wav": "馚㺙林克！还剩下2处鼓咯！\n保持这个势头鼓咯！",
+        "Dm_GA_0019_Text_032_b.wav": "那是，魔王的瘴气吗鼓咯？\n那家伙就在那里吗……！？",
+        "Dm_GO_0018_01.wav": "馚㺙还剩下3处鼓咯！\n林克！抓紧时间鼓咯！！",
+        "Dm_GO_0018_04.wav": "馚㺙林克！\n所有的锁都解开了鼓咯。\n馚㺙现在应该就能打开那扇门了……\n好，我们走吧鼓咯！",
+        "Dm_GA_0010_Text_000_aab.wav": "这家伙！\n是打算夹击我们鼓咯！",
+        "Dm_GA_0019_Text_001_b.wav": "",
+        "Dm_GA_0001_Text_001_b.wav": "你一个人独闯也太见外了鼓咯。"
+    },
+    "Dm_Npc_Raumi": {
+        "Dm_ZN_0022_Text_012_b.wav": "你为我铸就的这副附身之躯……\n这魔像中蕴藏着神秘的力量……",
+        "Dm_ZN_0015_Text_028_b.wav": "请你前往每一处仓库，\n为我铸造附身之躯。",
+        "Dm_ZN_0013_Text_005_b.wav": "我们……要尽快……\n必须尽快相遇才行……",
+        "DmT_ZN_BossIn_Text_003_b.wav": "那股瘴气……\n魔像恐怕已经被怪物占据了。",
+        "Dm_ZN_0015_Text_025_b.wav": "我如今只余灵魂存在……",
+        "Dm_ZN_0015_Text_029_b.wav": "拜托你了，林克，\n守护塞尔达之骑士……",
+        "Dm_GE_0009_Text_010_b.wav": "……来……",
+        "Dm_ZN_0015_Text_027_b.wav": "从此处可以望见四处仓库……",
+        "Dm_ZN_0015_Text_024_b.wav": "多亏你来到此地，\n我才终于得以与你交谈。",
+        "Dm_ZN_0016_Text_007_c.wav": "还剩1个，林克……\n附身之躯即将完成……",
+        "Dm_GE_0009_Text_009_b.wav": "……请……",
+        "Dm_GA_0001_Text_005_b.wav": "林克，你并非孤身一人。",
+        "Dm_ZN_0022_Text_009_b.wav": "秘石就在这个地方，\n请把我带去这里。",
+        "Dm_ZN_0015_Text_026_b.wav": "若没有新的附身之躯，\n我便无法真正地与你见面。",
+        "Dm_ZN_0013_Text_002_b.wav": "林克……",
+        "Dm_ZE_0007_Text_041_b.wav": "",
+        "Dm_GO_0013_Text_003_b.wav": "……请……",
+        "DmT_ZN_BossIn_Text_004_b.wav": "这个魔像已经成为了魔王的傀儡，\n不能放任它不管。",
+        "Dm_RT_0010_Text_007_b.wav": "……请……",
+        "Dm_ZN_0022_Text_008_b.wav": "那就是……我的魂之秘石。",
+        "Dm_GA_0013_Text_000_ab.wav": "那是……！\n用魔力仿造了我的魔像吗……"
+    },
+    "Dm_Npc_Raul_Soul": {
+        "Dm_OP_0004_Text_006_b.wav": "当时你的手已经腐朽，危及生命，\n我只能出此下策……",
+        "Dm_OP_0004_Text_004_b.wav": "我从塞尔达阁下那里听说过你……",
+        "Dm_OP_0004_Text_003_b.wav": "林克阁下，你醒了啊。",
+        "Dm_OP_0004_Text_005_b.wav": "你现在身负重伤，\n但万幸没有生命危险……"
+    },
+    "Dm_Npc_Gerudo_AncientSage": {
+        "Dm_GO_0021_Text_029_c.wav": "吾等得以幸存，而后不久……\n一人寻至吾所，决定了吾等鼓隆族之天命。",
+        "Dm_GO_0021_Text_020_d.wav": "此物乃倍增持有者力量之秘宝。",
+        "Dm_GE_0025_Text_014_c.wav": "吾等得以幸存，而后不久……\n一人寻至吾所，决定了吾等格鲁德族之宿命。",
+        "Dm_GE_0018_Text_003_b.wav": "此机关\n连接着神殿的顶端。",
+        "Dm_GO_0021_Text_020_c.wav": "劳鲁交予吾等秘石，\n以助吾等与魔王交战。",
+        "Dm_GO_0021_Text_019_b.wav": "劳鲁交予吾等一物，\n以助吾等与魔王交战。",
+        "Dm_GO_0021_Text_030_d.wav": "而后不久……",
+        "Dm_GO_0021_Text_030_e.wav": "六贤者之一——时之贤者寻至吾所，\n决定了吾等鼓隆族之天命。",
+        "Dm_GE_0025_Text_005_b.wav": "此物即秘石……\n是为倍增持有者力量之秘宝。",
+        "Dm_GE_0025_Text_005_d.wav": "此物乃倍增持有者力量之秘宝。",
+        "Dm_GE_0025_Text_015_e.wav": "六贤者之一——时之贤者寻至吾所，\n决定了吾等格鲁德族之宿命。",
+        "Dm_GO_0015_Text_002_b.wav": "汝欲开启的那扇门\n被5把挂锁牢牢封闭。",
+        "Dm_GE_0025_Text_005_c.wav": "劳鲁交予吾等秘石，\n以助吾等与魔王交战。",
+        "Dm_GE_0018_Text_004_b.wav": "若使用汝之力量使4个蓄电池充满雷之力，\n机关便能觉醒。",
+        "Dm_GE_0025_Text_004_b.wav": "劳鲁交予吾等一物，\n以助吾等与魔王交战。",
+        "Dm_GO_0021_Text_020_b.wav": "此物即秘石……\n是为倍增持有者力量之秘宝。",
+        "Dm_GO_0021_Text_030_c.wav": "此人即六贤者之一——时之贤者。"
+    },
+    "Enemy_Ganondorf": {
+        "Dm_ZO_0017_Text_016_c.wav": "……里……",
+        "Dm_BZ_0005_Text_000_ab.wav": "",
+        "Dm_GA_0008_Text_003_b.wav": "",
+        "DmT_BZ_BossIn_Text_009_d.wav": "",
+        "Dm_GO_0013_Text_004_b.wav": "……来……"
+    },
+    "Dm_Npc_Raul": {},
+    "Npc_Gerudo_Queen_Young": {
+        "SageOfGerudo_PyramidLiftConsole_03.wav": "好！\n所有蓄电池都已经注入雷电了。\n现在中央的机关应该就能启动了，\n我们走吧，林克！",
+        "SageOfGerudo_PyramidLiftConsole_01.wav": "还剩下2个了，\n林克！一鼓作气吧！",
+        "Dm_ED_0007_Text_038_b.wav": "",
+        "Dm_GA_0001_Text_003_b.wav": "你一个人独闯也太见外了。",
+        "Dm_GA_0012_Text_000_aab.wav": "原来是要夹击我们吗……！",
+        "SageOfGerudo_PyramidLiftConsole_02.wav": "好！\n这样就只剩1个蓄电池了！",
+        "SageOfGerudo_PyramidLiftConsole_00.wav": "这就是蓄电池……\n看来我的雷电已经注入进去了。\n好，那就还剩3个了！"
+    },
+    "Dm_Npc_Zelda_AncientHyrule": {
+        "Dm_BZ_0007_Text_000_b.wav": "……林克。",
+        "Dm_GA_0016_Text_024_b.wav": "林克！",
+        "Dm_BZ_0007_Text_001_b.wav": "……林克。",
+        "Dm_GA_0016_Text_023_b.wav": "林克！",
+        "Dm_ZE_0007_Text_040_b.wav": "",
+        "Dm_ZO_0017_Text_017_c.wav": "……来……"
+    },
+    "Dm_Npc_Rito_AncientSage": {
+        "Dm_RT_0022_Text_004_b.wav": "此物即秘石……\n是为倍增持有者力量之秘宝。",
+        "Dm_RT_0022_Text_004_c.wav": "劳鲁交予吾等秘石，\n以助吾等与魔王交战。",
+        "Dm_RT_0022_Text_013_c.wav": "吾等得以幸存，而后不久……\n一人寻至吾所，决定了吾等利特族之使命。",
+        "Dm_RT_0022_Text_003_b.wav": "劳鲁交予吾等一物，\n以助吾等与魔王交战。",
+        "Dm_RT_0022_Text_004_d.wav": "此物乃倍增持有者力量之秘宝。",
+        "Dm_RT_0014_Text_021_b.wav": "使用汝之力量将所有锁解开，\n那扇门便能开启。",
+        "Dm_RT_0022_Text_014_e.wav": "六贤者之一——时之贤者寻至吾所，\n决定了吾等利特族之使命。"
+    },
+    "Npc_Tulin_Sage": {
+        "DmF_GE_BattleAfter_Text_004_b.wav": "",
+        "Dm_GA_0001_Text_000_b.wav": "你一个人独闯也太见外了吧！",
+        "Dm_ED_0007_Text_037_b.wav": ""
+    },
+    "Dm_Npc_Zora_AncientSage": {
+        "Dm_ZO_0032_Text_004_b.wav": "此物即秘石……\n是为倍增持有者力量之秘宝。",
+        "Dm_ZO_0032_Text_013_c.wav": "吾等得以幸存，而后不久……\n一人寻至吾所，决定了吾等卓拉族之命运。",
+        "Dm_ZO_0032_Text_014_e.wav": "六贤者之一——时之贤者寻至吾所，\n决定了吾等卓拉族之命运。",
+        "Dm_ZO_0032_Text_004_c.wav": "劳鲁交予吾等秘石，\n以助吾等与魔王交战。"
+    },
+    "Npc_Zora_Prince_Sage": {
+        "Dm_ZO_0028_00_b.wav": "好！这样一来水就全部注满了卓！\n再操作一次中央的水栓，林克！",
+        "Dm_ED_0007_Text_040_b.wav": "",
+        "Dm_GA_0019_Text_033_b.wav": "那是魔王的瘴气吗？\n那家伙就在那里……！？",
+        "Dm_ZO_0024_01.wav": "哦哦！\n这样水栓就打开了啊！\n很顺利卓！\n还剩下3处！"
+    },
+    "Dm_Npc_Raumi_Ghost": {
+        "Dm_ZN_0022_Text_014_b.wav": "请你将我带到\n秘石所在之处吧。",
+        "Dm_ZN_0015_Text_023_b.wav": "我乃魂之贤者，\n名为米涅鲁。",
+        "Dm_ZN_0022_Text_007_b.wav": "最后需要的只剩一样东西了。"
+    },
+    "Npc_Goron033": {
+        "Dm_GA_0019_Text_000_b.wav": ""
+    },
+    "Dm_Npc_Sonia": {
+        "Dm_ZN_0039_Text_013_bb.wav": ""
+    },
+    "Npc_Zelda_Black_Event": {
+        "Dm_BZ_0006_Text_001_b.wav": "我一直在等着你……",
+        "Dm_BZ_0007_Text_002_b.wav": "快来我这里……"
+    },
+    "Npc_Zelda_Opening": {
+        "DmT_BZ_BossIn_Text_009_c.wav": ""
+    }
+}

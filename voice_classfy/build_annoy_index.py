@@ -23,7 +23,7 @@ if __name__ == "__main__":
     VECTOR_DIM = 192
     N_TREE = 50
 
-    ann = AnnoyIndex(VECTOR_DIM, "dot")
+    ann = AnnoyIndex(VECTOR_DIM, "angular")
     speakerMap = {}
     vectorExecutor = VectorExecutor()
 

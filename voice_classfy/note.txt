@@ -1,0 +1,7 @@
+1507 files in E:\totk_dump\totk_dump\secure\totk_dump\1\Voice\Resource\JPja\EventFlowMsg *.bwav
+
+get 1274 from clips data
+
+got 1193 from voiceprint
+1202
+1351 
