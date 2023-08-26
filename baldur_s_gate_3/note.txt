@@ -1,0 +1,8 @@
+https://github.com/Norbyte/lslib/releases
+chinese.xml : Baldurs Gate 3\Data\Localization\Chinese\Chinese.pak\chinese.loca
+
+
+影心 v3ed74f063c6042dc83f6f034cb47c679
+养鸡 v58a6933340bf83581d17fff240d7fb12
+明萨拉 v257213130c15493581769f134385451b
+旁白
