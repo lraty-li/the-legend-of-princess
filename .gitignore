@@ -7,3 +7,4 @@ voice_classfy/__pycache__/*
 collect_voice/cache/*
 voice_classfy/confirmedFiles.json
 voice_classfy/sndMap.json
+baldur_s_gate_3/mods/Teleport_To_other/Public/Teleport_To_You/Assets/Textures/Icons/*.png

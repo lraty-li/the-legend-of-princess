@@ -1,0 +1,25 @@
+create custom item
+using item / right click
+
+
+teleport to certain item location
+
+GUI
+
+参考
+
+右键菜单
+https://www.nexusmods.com/baldursgate3/mods/878
+
+deleted prymid
+https://www.nexusmods.com/baldursgate3/mods/459?tab=files&file_id=4374
+
+teleport party
+https://www.nexusmods.com/baldursgate3/mods/2149
+
+
+E:\modding\bd3\tp_to_player\mods\Teleport_To_You\Public\Teleport_To_You\Content\UI\[PAK]_UI\_merged.lsx
+E:\modding\bd3\tp_to_player\mods\Teleport_To_You\Public\Teleport_To_You\Content\UI\[PAK]_UI\_merged.lsf
+
+E:\modding\bd3\tp_to_player\mods\Teleport_To_You\Public\Teleport_To_You\GUI\Icons_Skills.lsx
+E:\modding\bd3\tp_to_player\mods\Teleport_To_You\Public\Teleport_To_You\GUI\Icons_Skills.lsf
